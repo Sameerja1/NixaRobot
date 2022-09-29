@@ -18,7 +18,15 @@ NIXA_IMG = (
 "https://te.legra.ph/file/87a36639d2dac42da7ec2.jpg",
 "https://te.legra.ph/file/640f00d7f0fea2640dcee.jpg",
 "https://te.legra.ph/file/af4e385ad2d039fc7fb55.jpg",
-
+"https://te.legra.ph/file/d48e10f96c47b9234447d.jpg",
+"https://te.legra.ph/file/91163718437d62b6a9b05.jpg",
+"https://te.legra.ph/file/617d689c8a1e4d7f03512.jpg",
+"https://te.legra.ph/file/dacd6bed230ebe1802eb2.jpg",
+"https://te.legra.ph/file/e1ea346c66e98ee8e773c.jpg",
+"https://te.legra.ph/file/4cce92e16ea6dc3b68989.jpg",
+"https://te.legra.ph/file/bf62629bfa33eed1fe39d.jpg",
+"https://te.legra.ph/file/1f36469d073c63fe6603c.jpg",
+"https://te.legra.ph/file/e1fe736cb651f507c8b38.jpg",
 )
 
 START_TIME = datetime.utcnow()
