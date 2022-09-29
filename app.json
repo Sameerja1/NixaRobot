@@ -1,0 +1,37 @@
+{
+    "name": "ɴɪxᴀ ʀᴏʙᴏᴛ",
+    "description": "ᴛʜɪs ɪs sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ",
+    "logo": "https://telegra.ph/file/e99fd5f4e72127ed67c65.jpg",
+    "keywords": [
+        "Telegram",
+        "NixaRobot",
+        "Bot"
+    ],
+    "repository": "https://github.com/Sumit9969/NixaRobot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "bot token ",
+            "required": true
+        },
+        "OWNER_ID": {
+            "description": "here owner id",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}
