@@ -72,7 +72,7 @@ async def start(client: Client, message: Message):
     await message.reply_photo(
         random.choice(NIXA_IMG),
          caption="""ʜᴇʟʟᴏ sɪʀ ɪ ᴀᴍ ɴɪxᴀ ʀᴏʙᴏᴛ\n
-ᴛʜɪs ɪs sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴜsᴇᴅ ғᴏʀ ғᴜɴ"""       
+ᴛʜɪs ɪs sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴜsᴇᴅ ғᴏʀ ғᴜɴ""",        
     reply_markup=InlineKeyboardMarkup(
              [
             [
