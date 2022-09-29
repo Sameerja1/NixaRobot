@@ -22,7 +22,7 @@ OWNER_ID = int(getenv("OWNER_ID", "0"))
 linda = "🎉 sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ʙᴏᴛ !!"
 tinda = "😂 ᴀʀᴇ ʙʜᴀɪ ᴀʙ ʙᴏᴛ ʙɴ ɢʏᴀ ʜᴀɪ ᴄʜᴀɴɴᴇʟ ᴊᴏɪɴ ᴋʀʟᴇ"
 
-if __name__ == __"main"__:
+if __name__ == "__main__" :
    print(linda)
    print(tinda)
    app = pyrogram.Client(
