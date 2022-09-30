@@ -9,7 +9,7 @@
          "Natasha",
          "Hokage"
       ],   
-   "repository": "https://github.com/Sumit9969/NixaRobot",
+   "repository": "https://github.com/Sameerja1/NixaRobot",
    "buildpacks": [
     {
       "url": "heroku/python"
