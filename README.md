@@ -1,4 +1,18 @@
-# ɴɪxᴀ ʀᴏʙᴏᴛ
+ ──「 ɴɪxᴀ ʀᴏʙᴏᴛ 」──
+</h2>
+
+>
+
+- ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɴɪxᴀ ʀᴏʙᴏᴛ](https://telegram.dog/NixaRobot)
+━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+  <img src="https://te.legra.ph/file/2d08a8936f41627b9652d.jpg">
+</p>
+
+<p align="center">
+<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+</p>
 
 <h3 align="center">
     ─ ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ─
@@ -8,6 +22,6 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/TechQuardSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TechQuard"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TheSupportBots"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TechQuard"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 
  
